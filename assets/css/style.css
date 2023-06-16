@@ -1,0 +1,22 @@
+.glob {
+	margin: 65px;
+  background: black;
+  z-index: 1;
+	-webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 8px;
+  box-shadow: 0 20px 68px rgba(0, 0, 0, 0.55);
+  color: white;
+  padding: 5px;
+  font-family: sans-serif;
+}
+.x {
+  display: block;
+  padding: 55px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.y {
+  display: inline-flex;
+  margin: auto;
+}
